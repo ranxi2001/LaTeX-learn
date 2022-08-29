@@ -6,5 +6,3 @@
 - LaTeX环境：建议使用TexLive+Vscode
   - LaTeX编译环境搭建教程：[使用VSCode编写LaTeX - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/38178015)
 - 建议：一边看视频一边自己尝试
-### 传送门
-- 
